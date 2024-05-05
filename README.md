@@ -1,1 +1,1 @@
-# sem-2-projects
+# sem-2-programs
